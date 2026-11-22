@@ -28,3 +28,13 @@ Das Tool kann direkt aus dem Quellcode gestartet oder mittels PyInstaller als po
 
 ```bash
 pyinstaller --noconsole --onefile --clean --icon=Logo_N_nextfield_circle.ico --add-data "Logo_N_nextfield_circle.ico;." nextheia.py
+
+---
+
+<div align="center">
+
+[![GitHub All Releases Download-Anzahl](https://img.shields.io/github/downloads/nextfield/nextheia/total?style=flat-square&logo=github&color=00d2ff)](https://github.com/nextfield/nextheia/releases)
+[![GitHub Release (latest by date)](https://img.shields.io/github/v/release/nextfield/nextheia?style=flat-square&color=2ea043)](https://github.com/nextfield/nextheia/releases/latest)
+
+*Entwickelt als Teil der **nextfield**-Infrastruktur.*
+</div>
