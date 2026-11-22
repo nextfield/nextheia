@@ -1,4 +1,4 @@
-# <img src="Logo_N_nextfield_circle.ico" width="130" style="vertical-align: middle; margin-right: 8px;"> nextheia (v1.1.1)
+# <img src="Logo_N_nextfield_circle.ico" width="130" style="vertical-align: middle; margin-right: 8px;">
 
 # 🅝 nextheia (v1.1.1)
 
