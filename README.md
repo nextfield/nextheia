@@ -17,15 +17,14 @@ Ein leichtgewichtiger, rahmenloser Windows 11 System-Monitor als System-Tray-App
 ---
 
 ## 🚀 Download-Counter
-<div align="center">
+<div align="left">
 
 [![GitHub All Releases Download-Anzahl](https://img.shields.io/github/downloads/nextfield/nextheia/total?style=flat-square&logo=github&color=00d2ff)](https://github.com/nextfield/nextheia/releases)
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/nextfield/nextheia?style=flat-square&color=2ea043)](https://github.com/nextfield/nextheia/releases/latest)
 
 *Entwickelt als Teil der **nextfield**-Infrastruktur.*
 
-</div>
----
+</div
 
 ## 🛠️ Tech Stack
 * **Python 3.14** mit `tkinter` für das Overlay.
