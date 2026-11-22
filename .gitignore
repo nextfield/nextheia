@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen
+.venv/
+env/
+venv/
+
+# PyInstaller Build-Reste (wichtig, damit dist/ und build/ draußen bleiben)
+build/
+dist/
+*.spec
+
+# Lokale Konfigurationen (damit persönliche Settings nicht committet werden)
+nextheia_config.json
