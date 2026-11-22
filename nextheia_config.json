@@ -1,0 +1,15 @@
+{
+    "position": "custom",
+    "custom_x": 107,
+    "custom_y": 466,
+    "metrics": {
+        "cpu": true,
+        "gpu": true,
+        "vram": true,
+        "tokens": true,
+        "model": true,
+        "context": true,
+        "power": true,
+        "io": true
+    }
+}
